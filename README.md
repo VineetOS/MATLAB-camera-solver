@@ -1,4 +1,4 @@
-# camera-solver
+# Ground truth correspondences, essential matrix and 3D points calculation for a given system of two images and intrinsic camera matrix in MATLAB
 Calculation of ground truth correspondences and essential matrix for two images of the same object captured from different angles using the 8 point algorithm and triangulation approach. 
 # Problem
 Consider two images I1 (“im1.jpg”) and I2 (“im2.jpg”) of a static scene captured from a single
